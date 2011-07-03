@@ -1,3 +1,9 @@
+1.3.1
+=====
+
+* Bugfix release.
+* Cleaned up the manual pages.
+
 1.3.0
 =====
 
@@ -22,7 +28,7 @@
 1.1.1
 =====
 
-* Bug fix release.
+* Bugfix release.
 * Pidfile support.
 
 1.1.0
